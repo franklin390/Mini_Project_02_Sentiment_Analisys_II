@@ -1,4 +1,4 @@
-# **Mini Project 01 - Sentiment Analisys I**
+# **Mini Project 02 - Sentiment Analisys II**
 
 *13 de fevereiro, 2020*
 
