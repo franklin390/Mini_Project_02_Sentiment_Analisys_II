@@ -1,4 +1,4 @@
-# **Mini Project 01 - Sentiment Analisys I**
+# **Mini Project 02 - Sentiment Analisys II**
 
 *13 de fevereiro, 2020*
 
@@ -12,6 +12,6 @@ Esta técnica visa auxilar os tomadores de decisão na compreensão dos sentimen
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
-* https://franklin390.github.io/Project_01_Talking_Data_AdTracking_Fraud_Detection_Challenge/
+* https://franklin390.github.io/Mini_Project_02_Sentiment_Analisys_II/
 
 ---
